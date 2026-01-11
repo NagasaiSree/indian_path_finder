@@ -1,4 +1,4 @@
-# India Path Finder 🗺️
+# India Path Finder 
 
 A Google Maps-like pathfinding web application for India's national highway network using Dijkstra's algorithm.
 
@@ -72,12 +72,9 @@ The application uses **Dijkstra's Algorithm** to find the shortest path between 
 
 MIT License - Free for educational and personal use
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## Acknowledgments
 
 - OpenStreetMap contributors for map data
 - Indian Ministry of Road Transport and Highways for NH data
+
 - Dijkstra's algorithm for pathfinding
